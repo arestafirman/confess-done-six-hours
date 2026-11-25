@@ -1,8 +1,8 @@
 # Emailed 'Done!', Then Spent 6 Hours Making It True
 
-![Make.fun](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef.svg)
-![Rank](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef/arestafirman/confess-done-six-hours/rank.svg)
-![Reward](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef/arestafirman/confess-done-six-hours/reward.svg)
+[![Emailed 'Done!', Then Spent 6 Hours Making It True](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef.svg)](https://make.fun/c/u-nayyy-confess-your-worst-moment-841ae7ef)
+[![Rank](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef/arestafirman/confess-done-six-hours/rank.svg)](https://make.fun/c/u-nayyy-confess-your-worst-moment-841ae7ef)
+[![Reward](https://make.fun/badge/u-nayyy-confess-your-worst-moment-841ae7ef/arestafirman/confess-done-six-hours/reward.svg)](https://make.fun/c/u-nayyy-confess-your-worst-moment-841ae7ef)
 
 ## Entry
 
